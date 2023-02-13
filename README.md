@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+  <img width="100px" height="100px" src="https://w7.pngwing.com/pngs/541/444/png-transparent-boy-using-computer-art-programmer-computer-programming-bachelor-miscellaneous-furniture-reading.png" >
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/giorgi-charkviani-7256481a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:gi.charkviani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <div>
+      <img src="https://komarev.com/ghpvc/?username=GiCharkviani&style=flat-square&color=blue" alt=""/>
+  </div>
+</div>
 
-<!--
-**GiCharkviani/GiCharkviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fire: My Stats: 
 
-Here are some ideas to get you started:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiCharkviani&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiCharkviani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
